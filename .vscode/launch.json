@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AndinaTradingApplication<AndinaTrading>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.andina.trading.AndinaTradingApplication",
+            "projectName": "AndinaTrading",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
